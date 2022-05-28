@@ -1,0 +1,1 @@
+Exercício de Análise Exploratória feito no Curso Formação Python para Analises de Dados 3.0 da Datascience Academy.
